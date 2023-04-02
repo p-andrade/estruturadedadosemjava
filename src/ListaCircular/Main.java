@@ -17,8 +17,9 @@ public class Main {
         minhaListaCircular.add("c3");
         System.out.println(minhaListaCircular);
 
-        System.out.println(minhaListaCircular.get(7));
-        System.out.println(minhaListaCircular.get(323));
+        System.out.println(minhaListaCircular.get(1));
+        System.out.println(minhaListaCircular.get(2));
+        System.out.println(minhaListaCircular.get(3));
 
     }
 }
